@@ -1,90 +1,33 @@
 # CTF Writeups
 
-Writeups de maquinas resueltas durante mi formacion en pentesting.
+Repositorio de writeups de máquinas y laboratorios de ciberseguridad, como parte de mi formación en pentesting y ethical hacking.
 
-- [DOCKERLABS/Aguademayo.md](writeups/DOCKERLABS/Aguademayo.md)
-- [DOCKERLABS/Aidor.md](writeups/DOCKERLABS/Aidor.md)
-- [DOCKERLABS/Allien.md](writeups/DOCKERLABS/Allien.md)
-- [DOCKERLABS/Amor.md](writeups/DOCKERLABS/Amor.md)
-- [DOCKERLABS/AnonymousPingu.md](writeups/DOCKERLABS/AnonymousPingu.md)
-- [DOCKERLABS/ApiBase.md](writeups/DOCKERLABS/ApiBase.md)
-- [DOCKERLABS/Backend.md](writeups/DOCKERLABS/Backend.md)
-- [DOCKERLABS/BaluFood.md](writeups/DOCKERLABS/BaluFood.md)
-- [DOCKERLABS/Balulero.md](writeups/DOCKERLABS/Balulero.md)
-- [DOCKERLABS/Bicho.md](writeups/DOCKERLABS/Bicho.md)
-- [DOCKERLABS/Borazuwarahctf.md](writeups/DOCKERLABS/Borazuwarahctf.md)
-- [DOCKERLABS/BreakMySSH.md](writeups/DOCKERLABS/BreakMySSH.md)
-- [DOCKERLABS/Bypassme.md](writeups/DOCKERLABS/Bypassme.md)
-- [DOCKERLABS/Candy.md](writeups/DOCKERLABS/Candy.md)
-- [DOCKERLABS/ChocolateFire.md](writeups/DOCKERLABS/ChocolateFire.md)
-- [DOCKERLABS/ChocolateLovers.md](writeups/DOCKERLABS/ChocolateLovers.md)
-- [DOCKERLABS/ConsoleLog.md](writeups/DOCKERLABS/ConsoleLog.md)
-- [DOCKERLABS/Dockerlabs.md](writeups/DOCKERLABS/Dockerlabs.md)
-- [DOCKERLABS/Domain.md](writeups/DOCKERLABS/Domain.md)
-- [DOCKERLABS/Ejotapete.md](writeups/DOCKERLABS/Ejotapete.md)
-- [DOCKERLABS/Elevator.md](writeups/DOCKERLABS/Elevator.md)
-- [DOCKERLABS/Escolares.md](writeups/DOCKERLABS/Escolares.md)
-- [DOCKERLABS/Extraviado.md](writeups/DOCKERLABS/Extraviado.md)
-- [DOCKERLABS/File.md](writeups/DOCKERLABS/File.md)
-- [DOCKERLABS/FindYourStyle.md](writeups/DOCKERLABS/FindYourStyle.md)
-- [DOCKERLABS/FirstHacking.md](writeups/DOCKERLABS/FirstHacking.md)
-- [DOCKERLABS/ForbiddenHack.md](writeups/DOCKERLABS/ForbiddenHack.md)
-- [DOCKERLABS/Galeria.md](writeups/DOCKERLABS/Galeria.md)
-- [DOCKERLABS/Grooti.md](writeups/DOCKERLABS/Grooti.md)
-- [DOCKERLABS/HedgeHog.md](writeups/DOCKERLABS/HedgeHog.md)
-- [DOCKERLABS/InfluencerHate.md](writeups/DOCKERLABS/InfluencerHate.md)
-- [DOCKERLABS/Injection.md](writeups/DOCKERLABS/Injection.md)
-- [DOCKERLABS/Internship.md](writeups/DOCKERLABS/Internship.md)
-- [DOCKERLABS/JenkHack.md](writeups/DOCKERLABS/JenkHack.md)
-- [DOCKERLABS/Library.md](writeups/DOCKERLABS/Library.md)
-- [DOCKERLABS/Los 40 Ladrones.md](writeups/DOCKERLABS/Los%2040%20Ladrones.md)
-- [DOCKERLABS/Mirame.md](writeups/DOCKERLABS/Mirame.md)
-- [DOCKERLABS/Move.md](writeups/DOCKERLABS/Move.md)
-- [DOCKERLABS/NodeClimb.md](writeups/DOCKERLABS/NodeClimb.md)
-- [DOCKERLABS/Obsession.md](writeups/DOCKERLABS/Obsession.md)
-- [DOCKERLABS/Paradise.md](writeups/DOCKERLABS/Paradise.md)
-- [DOCKERLABS/Patriaquerida.md](writeups/DOCKERLABS/Patriaquerida.md)
-- [DOCKERLABS/Pequeñas-Mentirosas.md](writeups/DOCKERLABS/Peque%C3%B1as-Mentirosas.md)
-- [DOCKERLABS/Picadilly.md](writeups/DOCKERLABS/Picadilly.md)
-- [DOCKERLABS/PingCTF.md](writeups/DOCKERLABS/PingCTF.md)
-- [DOCKERLABS/Pinguinazo.md](writeups/DOCKERLABS/Pinguinazo.md)
-- [DOCKERLABS/PkgPoison.md](writeups/DOCKERLABS/PkgPoison.md)
-- [DOCKERLABS/-Pn.md](writeups/DOCKERLABS/-Pn.md)
-- [DOCKERLABS/Pntopntobarra.md](writeups/DOCKERLABS/Pntopntobarra.md)
-- [DOCKERLABS/Pressenter.md](writeups/DOCKERLABS/Pressenter.md)
-- [DOCKERLABS/Psycho.md](writeups/DOCKERLABS/Psycho.md)
-- [DOCKERLABS/Redirection.md](writeups/DOCKERLABS/Redirection.md)
-- [DOCKERLABS/Reflection.md](writeups/DOCKERLABS/Reflection.md)
-- [DOCKERLABS/SecretJenkins.md](writeups/DOCKERLABS/SecretJenkins.md)
-- [DOCKERLABS/ShowTime.md](writeups/DOCKERLABS/ShowTime.md)
-- [DOCKERLABS/Stellarjwt.md](writeups/DOCKERLABS/Stellarjwt.md)
-- [DOCKERLABS/Trust.md](writeups/DOCKERLABS/Trust.md)
-- [DOCKERLABS/Upload.md](writeups/DOCKERLABS/Upload.md)
-- [DOCKERLABS/Vacaciones.md](writeups/DOCKERLABS/Vacaciones.md)
-- [DOCKERLABS/Verdejo.md](writeups/DOCKERLABS/Verdejo.md)
-- [DOCKERLABS/Vulnvault.md](writeups/DOCKERLABS/Vulnvault.md)
-- [DOCKERLABS/Walking Dead.md](writeups/DOCKERLABS/Walking%20Dead.md)
-- [DOCKERLABS/WalkingCMS.md](writeups/DOCKERLABS/WalkingCMS.md)
-- [DOCKERLABS/WhereIsMyWebShell.md](writeups/DOCKERLABS/WhereIsMyWebShell.md)
-- [DOCKERLABS/Whoiam.md](writeups/DOCKERLABS/Whoiam.md)
-- [DOCKERLABS/WinFake.md](writeups/DOCKERLABS/WinFake.md)
-- [DOCKERLABS/Winterfell.md](writeups/DOCKERLABS/Winterfell.md)
-- [HackTheBox/Cap.md](writeups/HackTheBox/Cap.md)
-- [HackTheBox/CCTV.md](writeups/HackTheBox/CCTV.md)
-- [HackTheBox/CodePartTwo.md](writeups/HackTheBox/CodePartTwo.md)
-- [HackTheBox/Conversor.md](writeups/HackTheBox/Conversor.md)
-- [HackTheBox/Expressway.md](writeups/HackTheBox/Expressway.md)
-- [HackTheBox/Facts.md](writeups/HackTheBox/Facts.md)
-- [HackTheBox/Kobold.md](writeups/HackTheBox/Kobold.md)
-- [HackTheBox/MonitorsFour.md](writeups/HackTheBox/MonitorsFour.md)
-- [HackTheBox/Reactor.md](writeups/HackTheBox/Reactor.md)
-- [HackTheBox/Silentium.md](writeups/HackTheBox/Silentium.md)
-- [HackTheBox/Support.md](writeups/HackTheBox/Support.md)
-- [HackTheBox/TwoMillion.md](writeups/HackTheBox/TwoMillion.md)
-- [HackTheBox/WingData.md](writeups/HackTheBox/WingData.md)
-- [TheHackersLabs/Academy.md](writeups/TheHackersLabs/Academy.md)
-- [TheHackersLabs/Chimichurri.md](writeups/TheHackersLabs/Chimichurri.md)
-- [TheHackersLabs/Microchoft.md](writeups/TheHackersLabs/Microchoft.md)
-- [VULNHUB/Election1.md](writeups/VULNHUB/Election1.md)
-- [VULNHUB/HackMePlease1.md](writeups/VULNHUB/HackMePlease1.md)
-- [VULNHUB/ICA1.md](writeups/VULNHUB/ICA1.md)
+Documento el proceso de resolución, desde el reconocimiento inicial hasta la escalada de privilegios, incluyendo comandos, evidencias y explicación de los hallazgos.
+
+## Plataformas
+
+| Plataforma | Writeups |
+|---|---|
+| Hack The Box | [Explorar](./writeups/HackTheBox/) |
+| DockerLabs | [Explorar](./writeups/DOCKERLABS/) |
+| The Hackers Labs | [Explorar](./writeups/TheHackersLabs/) |
+| VulnHub | [Explorar](./writeups/VULNHUB/) |
+
+## Áreas de práctica
+
+- Reconocimiento y enumeración de servicios.
+- Análisis y explotación de vulnerabilidades web.
+- Análisis de credenciales, criptografía y esteganografía.
+- Escalada de privilegios en Linux y Windows.
+
+Las técnicas y herramientas utilizadas varían según cada laboratorio.
+
+## Organización
+
+Los writeups están organizados por plataforma dentro de `writeups/`. Las capturas y los recursos utilizados se almacenan en `_assets/`.
+
+Cada documento reúne los pasos realizados y las evidencias correspondientes para facilitar su lectura y reproducción en el laboratorio.
+
+## Uso responsable
+
+El contenido corresponde a entornos de práctica y CTF. Las técnicas descritas deben utilizarse únicamente en sistemas propios o con autorización expresa.
